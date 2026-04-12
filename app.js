@@ -85,13 +85,20 @@ console.log(num1 + num2);
 
 // ask user his 3 hobbies
 
+// let hobi1 = prompt('Your 1st hobby');
+// let hobi2 = prompt('Your 2nd hobby');
+// let hobi3 = prompt('Your 3rd hobby');
+
+// hobbies = [hobi1, hobi2, hobi3];
+// console.log(hobbies);
+
+
 let hobi1 = prompt('Your 1st hobby');
 let hobi2 = prompt('Your 2nd hobby');
 let hobi3 = prompt('Your 3rd hobby');
 
 hobbies = [hobi1, hobi2, hobi3];
 console.log(hobbies);
-
 
 // Today lecture is complete
 
