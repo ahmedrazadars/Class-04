@@ -14,6 +14,41 @@ console.log(country);
 
 
 
+// let patient1 ={
+//     name: 'Akram Khan',
+//     sympotoms: ['Fever', 'Flue', 'Cough'],
+//     coronsa: false,
+//     isolation: false
+// };
+
+// let patient2 ={
+//     name: 'Aslam Khan',
+//     sympotoms: ['Fever', 'Flue', 'Cough'],
+//     coronsa: true,
+//     isolation: true
+// };
+
+// let patient3 ={
+//     name: 'Munshi Khan',
+//     sympotoms: ['Flue', 'Cough'],
+//     coronsa: false,
+//     isolation: false
+// };
+
+// let patients = [patient1, patient2, patient3];
+
+// console.log(patients);
+
+
+
+
+
+
+
+
+
+
+
 let patient1 ={
     name: 'Akram Khan',
     sympotoms: ['Fever', 'Flue', 'Cough'],
@@ -38,8 +73,6 @@ let patient3 ={
 let patients = [patient1, patient2, patient3];
 
 console.log(patients);
-
-
 
 
 
