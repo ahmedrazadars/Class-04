@@ -83,6 +83,22 @@ console.log(patients);
 
 
 
+// let studentName = prompt('Student Name');
+// let rollNumber = prompt('Your Roll Number?');
+// let subject1 = prompt('Write Your Subject name');
+// let subject2 = prompt('Write Your Subject name');
+
+// let Student ={
+//     name: studentName,
+//     rollNumber: rollNumber,
+//     subjects: [subject1, subject2]
+// };
+
+// console.log(Student);
+
+
+
+
 let studentName = prompt('Student Name');
 let rollNumber = prompt('Your Roll Number?');
 let subject1 = prompt('Write Your Subject name');
