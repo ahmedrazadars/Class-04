@@ -1,6 +1,20 @@
 console.log('Ahmed Raza');
 
 
+// let country = {
+//     Name: 'Pakistan',
+//     Provin: ['Sindh', 'Punjab', 'Balochistan', 'Kpk'],
+//     area: 996990,
+//     isParliamentrySystem: true,
+//     areaUnit: 'SQ KL'
+// };
+
+// console.log(country);
+
+
+
+
+
 let country = {
     Name: 'Pakistan',
     Provin: ['Sindh', 'Punjab', 'Balochistan', 'Kpk'],
